@@ -1,0 +1,56 @@
+.box-paginacao{
+    width: 370px;
+    height: 30px;
+    margin: 0 auto;
+}
+
+a.box-navegacao{
+    color: #3436A1;
+    font-size: 13px;
+    border: 1px solid #3436A1;
+    float: left;
+    margin: 0 5px;
+    padding: 4px 5px;
+    cursor: pointer;
+}
+
+a.box-navegacao:hover{
+    color: red;
+    text-decoration: underline;
+    background-color: #3436A1;
+}
+
+a.box-numero{
+    display: block;
+    font-size: 13px;
+    float: left;
+    width: 28px;
+    height: 28px;
+    color: #3436A1;
+    border: 1px solid #3436A1;
+    background-color: #fff;
+    text-align: center;
+    padding: 6px 5px;
+    margin: 0 3px;
+    cursor: pointer;
+}
+
+a.box-numero:hover, a.destaque{
+    color: red;
+    border: 1px solid #3436A1;
+    background-color: #3436A1;
+}
+
+.row p{
+    padding: 15px 10px;
+    width: 300px;
+    margin: 0 auto;
+}
+
+.esconder{
+    visibility: hidden;
+}
+
+.mostrar{
+    visibility: visible;
+}

@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ca383a6a-15cc-4d5c-b8f7-56a107342c47" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="DONT_SYNCHRONIZE" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Aulas$FuncaoTest.coverage" NAME="FuncaoTest Coverage Results" MODIFIED="1515181804351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="PhpCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="package_json" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>”</find>
+      <find>xcode</find>
+      <find>‘</find>
+      <find>&quot;</find>
+      <find>body</find>
+      <find>wrapper</find>
+      <find>footer</find>
+      <find>\&quot;</find>
+      <find>$email</find>
+      <find>$stm</find>
+      <find>professor</find>
+      <find>cargo</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&quot;</replace>
+      <replace>'</replace>
+      <replace>$cargo</replace>
+      <replace>$statement</replace>
+      <replace>inst</replace>
+      <replace>sigla</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/bancodedados/pdo/buscaLike.php" />
+        <option value="$PROJECT_DIR$/src/bancodedados/pdo/buscaTodos.php" />
+        <option value="$PROJECT_DIR$/src/bancodedados/pdo/insert.php" />
+        <option value="$PROJECT_DIR$/src/bancodedados/pdo/delete.php" />
+        <option value="$PROJECT_DIR$/src/bancodedados/pdo/update.php" />
+        <option value="$PROJECT_DIR$/tests/funcaoTeste.php" />
+        <option value="$PROJECT_DIR$/phpunit.xml" />
+        <option value="$PROJECT_DIR$/src/avancado/pdf/mpdf/estilo.css" />
+        <option value="$PROJECT_DIR$/src/avancado/pdf/mpdf/mpdf60/mpdf.php" />
+        <option value="$PROJECT_DIR$/src/avancado/pdf/tcpdf/relatorio.php" />
+        <option value="$PROJECT_DIR$/src/avancado/pdf/mpdf/relatorio.php" />
+        <option value="$PROJECT_DIR$/src/avancado/pdf/fpdf/relatorio.php" />
+        <option value="$PROJECT_DIR$/src/avancado/graficos/grafico01.php" />
+        <option value="$PROJECT_DIR$/src/avancado/graficos/graficos.php" />
+        <option value="$PROJECT_DIR$/src/avancado/imagem/imagem.php" />
+        <option value="$PROJECT_DIR$/src/avancado/SGA/dashboard.html" />
+        <option value="$PROJECT_DIR$/src/avancado/SGA/dash.php" />
+        <option value="$PROJECT_DIR$/src/avancado/paginacao/listagem.php" />
+        <option value="$PROJECT_DIR$/src/avancado/paginacao/assets/css/estilo.css" />
+        <option value="$PROJECT_DIR$/src/avancado/SGA/Professores.php" />
+        <option value="$PROJECT_DIR$/src/avancado/SGA/menu.php" />
+        <option value="$PROJECT_DIR$/src/avancado/SGA/MenuLateral.php" />
+        <option value="$PROJECT_DIR$/src/avancado/SGA/menulateral.php" />
+        <option value="$PROJECT_DIR$/src/avancado/SGA/menusuperior.php" />
+        <option value="$PROJECT_DIR$/src/avancado/SGA/header.php" />
+        <option value="$PROJECT_DIR$/src/avancado/SGA/assets/css/estilo.css" />
+        <option value="$PROJECT_DIR$/src/avancado/SGA/footer.php" />
+        <option value="$PROJECT_DIR$/src/avancado/SGA/menus/menusuperior.php" />
+        <option value="$PROJECT_DIR$/src/avancado/SGA/menus/menulateral.php" />
+        <option value="$PROJECT_DIR$/src/avancado/SGA/icons.html" />
+        <option value="$PROJECT_DIR$/src/avancado/SGA/assets/css/paper-dashboard.css" />
+        <option value="$PROJECT_DIR$/src/avancado/SGA/removeprofessor.php" />
+        <option value="$PROJECT_DIR$/src/intermediario/bancodedados/pdo/delete.php" />
+        <option value="$PROJECT_DIR$/src/intermediario/bancodedados/pdo/update.php" />
+        <option value="$PROJECT_DIR$/src/intermediario/bancodedados/pdo/insert.php" />
+        <option value="$PROJECT_DIR$/src/avancado/SGA/adicionarprofessor.php" />
+        <option value="$PROJECT_DIR$/src/avancado/SGA/conexao.php" />
+        <option value="$PROJECT_DIR$/src/avancado/SGA/estrutura/footer.php" />
+        <option value="$PROJECT_DIR$/src/avancado/SGA/estrutura/header.php" />
+        <option value="$PROJECT_DIR$/src/avancado/SGA/professores.php" />
+        <option value="$PROJECT_DIR$/src/avancado/SGA/db/conexao.php" />
+        <option value="$PROJECT_DIR$/src/avancado/SGA/autoload.php" />
+        <option value="$PROJECT_DIR$/src/avancado/SGA/instituicoes.php" />
+        <option value="$PROJECT_DIR$/src/avancado/SGA/classes/instituicao.php" />
+        <option value="$PROJECT_DIR$/src/intermediario/bancodedados/pdo/buscaTodos.php" />
+        <option value="$PROJECT_DIR$/src/avancado/SGA/graficoNotas.php" />
+        <option value="$PROJECT_DIR$/src/avancado/SGA/dashboard.php" />
+        <option value="$PROJECT_DIR$/src/intermediario/dataEHora.php" />
+        <option value="$PROJECT_DIR$/src/avancado/composer/package.json" />
+        <option value="$PROJECT_DIR$/src/avancado/composer/teste.php" />
+        <option value="$PROJECT_DIR$/src/avancado/email/e-mail.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP">
+    <include_path>
+      <path value="." />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Aulas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Aulas" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.buildTools.grunt.grunt-cli.package" value="" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="" />
+    <property name="nodejs.jest.jest_package" value="" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="" />
+    <property name="nodejs.protractor.protractor_package" value="" />
+    <property name="settings.editor.selected.configurable" value="php.test.frameworks.configurable" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/avancado" />
+      <recent name="$PROJECT_DIR$/src/avancado/SGA/db" />
+      <recent name="$PROJECT_DIR$/src/avancado/SGA/estrutura" />
+      <recent name="$PROJECT_DIR$/src/avancado/SGA/menus" />
+      <recent name="$PROJECT_DIR$/src/intermediario" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/avancado/SGA/assets/fonts" />
+      <recent name="$PROJECT_DIR$/src/avancado/SGA" />
+      <recent name="$PROJECT_DIR$/src/avancado/SGA/assets/css" />
+      <recent name="$PROJECT_DIR$/src/avancado/paginacao" />
+      <recent name="$PROJECT_DIR$/src/avancado/graficos" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="PHPUnit.FuncaoTest">
+    <configuration name="dashboard.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Aulas/src/avancado/SGA/dashboard.php" />
+    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Aulas/tests/_reports/coverage/index.html" />
+    <configuration name="FuncaoTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="FuncaoTest" file="$PROJECT_DIR$/tests/funcaoTeste.php" scope="Class" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.grunt" factoryName="Grunt.js">
+      <node-interpreter value="project" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <list>
+      <item itemvalue="PHPUnit.FuncaoTest" />
+      <item itemvalue="JavaScript Debug.index.html" />
+      <item itemvalue="JavaScript Debug.dashboard.php" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.FuncaoTest" />
+        <item itemvalue="JavaScript Debug.dashboard.php" />
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca383a6a-15cc-4d5c-b8f7-56a107342c47" name="Default" comment="" />
+      <created>1514895963183</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1514895963183</updated>
+      <workItem from="1514895965858" duration="8128000" />
+      <workItem from="1515001161785" duration="39000" />
+      <workItem from="1515001224185" duration="3290000" />
+      <workItem from="1515017325939" duration="135000" />
+      <workItem from="1515063824259" duration="2267000" />
+      <workItem from="1515067050798" duration="879000" />
+      <workItem from="1515068729129" duration="377000" />
+      <workItem from="1515072260205" duration="2175000" />
+      <workItem from="1515076215968" duration="2330000" />
+      <workItem from="1515084686659" duration="4892000" />
+      <workItem from="1515157101858" duration="18376000" />
+      <workItem from="1515419423228" duration="3487000" />
+      <workItem from="1515497671985" duration="4256000" />
+      <workItem from="1515510296985" duration="15865000" />
+      <workItem from="1515532502170" duration="12880000" />
+      <workItem from="1515582016386" duration="81000" />
+      <workItem from="1515599219587" duration="521000" />
+      <workItem from="1515605026965" duration="10000" />
+      <workItem from="1516667566392" duration="454000" />
+      <workItem from="1516668132803" duration="21000" />
+      <workItem from="1525698392399" duration="81000" />
+      <workItem from="1528153810480" duration="185000" />
+      <workItem from="1528409416475" duration="1020000" />
+      <workItem from="1529243865154" duration="72000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="FuncaoTest - 2018.01.04 at 14h 54m 00s.xml">
+      <configuration name="FuncaoTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="FuncaoTest - 2018.01.04 at 14h 57m 41s.xml">
+      <configuration name="FuncaoTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="FuncaoTest - 2018.01.04 at 14h 58m 25s.xml">
+      <configuration name="FuncaoTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="FuncaoTest - 2018.01.04 at 14h 58m 42s.xml">
+      <configuration name="FuncaoTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="FuncaoTest - 2018.01.04 at 14h 59m 00s.xml">
+      <configuration name="FuncaoTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="FuncaoTest - 2018.01.05 at 17h 48m 34s.xml">
+      <configuration name="FuncaoTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="FuncaoTest - 2018.01.05 at 17h 49m 25s.xml">
+      <configuration name="FuncaoTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="FuncaoTest - 2018.01.05 at 17h 50m 04s.xml">
+      <configuration name="FuncaoTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="FuncaoTest - 2018.06.04 at 20h 11m 18s.xml">
+      <configuration name="FuncaoTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="FuncaoTest - 2018.06.07 at 19h 17m 28s.xml">
+      <configuration name="FuncaoTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="81821000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24609375" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3275401" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="PHP-CGI Server" order="7" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection Results" order="8" weight="0.32933334" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32933334" />
+      <window_info anchor="right" id="Coverage" order="3" side_tool="true" weight="0.3296875" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/avancado/SGA/dashboard.html" />
+    <entry file="file://$PROJECT_DIR$/src/avancado/paginacao/assets/js/demo.js" />
+    <entry file="file://$PROJECT_DIR$/src/avancado/paginacao/assets/css/estilo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/avancado/SGA/assets/img/favicon.png" />
+    <entry file="file://$PROJECT_DIR$/src/avancado/SGA/assets/img/tim_80x80.png" />
+    <entry file="file://$PROJECT_DIR$/src/avancado/SGA/assets/img/new_logo.png" />
+    <entry file="file://$PROJECT_DIR$/src/avancado/SGA/assets/img/logo.gif" />
+    <entry file="file://$PROJECT_DIR$/src/avancado/SGA/assets/img/faces/face-0.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/avancado/SGA/assets/img/faces/face-1.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/avancado/SGA/assets/img/faces/face-2.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/avancado/SGA/assets/img/faces/face-3.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/avancado/SGA/table.html" />
+    <entry file="file://$PROJECT_DIR$/src/avancado/paginacao/listagem.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="65" column="1" selection-start-line="65" selection-start-column="1" selection-end-line="65" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/avancado/SGA/assets/css/estilo.css" />
+    <entry file="file://$PROJECT_DIR$/src/avancado/paper-dashboard-master/assets/css/paper-dashboard.css" />
+    <entry file="file://$PROJECT_DIR$/src/avancado/icons.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/avancado/SGA/assets/css/paper-dashboard.css" />
+    <entry file="file://$PROJECT_DIR$/src/intermediario/bancodedados/mysqli/buscaTodos.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/intermediario/bancodedados/mysqli/delete.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/intermediario/bancodedados/pdo/delete.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="20" column="56" selection-start-line="20" selection-start-column="56" selection-end-line="20" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/intermediario/bancodedados/pdo/insert.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/avancado/SGA/removeprofessor.php" />
+    <entry file="file://$PROJECT_DIR$/src/avancado/SGA/adicionarprofessor.php" />
+    <entry file="file://$PROJECT_DIR$/src/avancado/SGA/assets/img/background.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/avancado/SGA/assets/js/paper-dashboard.js" />
+    <entry file="file://$PROJECT_DIR$/src/avancado/SGA/estrutura/menulateral.php" />
+    <entry file="file://$PROJECT_DIR$/src/avancado/SGA/estrutura/menusuperior.php" />
+    <entry file="file://$PROJECT_DIR$/src/avancado/SGA/estrutura/footer.php" />
+    <entry file="file://$PROJECT_DIR$/src/avancado/SGA/professores.php" />
+    <entry file="file://$PROJECT_DIR$/src/avancado/SGA/db/conexao.php" />
+    <entry file="file://$PROJECT_DIR$/src/avancado/SGA/estrutura/header.php" />
+    <entry file="file://$PROJECT_DIR$/src/intermediario/bancodedados/pdo/update.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/avancado/SGA/autoload.php" />
+    <entry file="file://$PROJECT_DIR$/src/avancado/SGA/classes/instituicao.php" />
+    <entry file="file://$PROJECT_DIR$/src/avancado/SGA/instituicoes.php" />
+    <entry file="file://$PROJECT_DIR$/src/avancado/SGA/PHPlot/CNAME" />
+    <entry file="file://$PROJECT_DIR$/src/avancado/graficos/graficos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="11" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/intermediario/bancodedados/pdo/buscaLike.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="21" selection-start-line="21" selection-end-line="30" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/intermediario/bancodedados/pdo/buscaTodos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="20" column="39" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/avancado/graficos/grafico01.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="22" column="25" selection-start-line="21" selection-start-column="9" selection-end-line="22" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/avancado/SGA/PHPlot/phplottest/error-ttfpath.php" />
+    <entry file="file://$PROJECT_DIR$/src/avancado/SGA/graficoNotas.php" />
+    <entry file="file://$PROJECT_DIR$/src/avancado/SGA/dashboard.php" />
+    <entry file="file://$PROJECT_DIR$/src/intermediario/dataEHora.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/avancado/composer/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/avancado/composer/teste.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="12" column="45" lean-forward="true" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/avancado/email/e-mail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="26" column="18" lean-forward="true" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/_reports/coverage/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/intermediario/classes/classeEFuncao.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="54" column="20" selection-start-line="54" selection-start-column="20" selection-end-line="54" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpunit.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="148" selection-start-line="11" selection-start-column="146" selection-end-line="11" selection-end-column="148" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/funcaoTeste.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="32" column="14" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
