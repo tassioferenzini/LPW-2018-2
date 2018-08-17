@@ -7,7 +7,7 @@
  */
 
 use PHPUnit\Framework\TestCase;
-include_once("../src/intermediario/classes/classeEFuncao.php");
+//include_once ("../src/intermediario/classes/classeEFuncao.php");
 
 class FuncaoTest extends TestCase {
 
