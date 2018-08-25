@@ -12,6 +12,7 @@ $pass = null;
 $profile = null;
 
 try {
+    global $pdo;
     $statement = $pdo->prepare("SELECT iduser, login, senha, nome, perfil FROM tb_user WHERE login = :login and senha = :pass; ");
     $statement->bindValue(":login", $login);
     $statement->bindValue(":pass", sha1($passwd));

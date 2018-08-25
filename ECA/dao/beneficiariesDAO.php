@@ -27,13 +27,15 @@ class beneficiariesDAO
         global $pdo;
         try {
             if ($beneficiaries->getIdBeneficiaries() != "") {
-                $statement = $pdo->prepare("UPDATE tb_beneficiaries SET str_nis=:str_nis, str_name_person=:str_name_person WHERE id_beneficiaries = :id;");
+                $statement = $pdo->prepare("UPDATE tb_beneficiaries SET str_nis=:str_nis, str_name_person=:str_name_person, str_cpf=:str_cpf, int_rgp=:int_rgp WHERE id_beneficiaries = :id;");
                 $statement->bindValue(":id", $beneficiaries->getIdBeneficiaries());
             } else {
-                $statement = $pdo->prepare("INSERT INTO tb_beneficiaries (str_nis, str_name_person) VALUES (:str_nis, :str_name_person)");
+                $statement = $pdo->prepare("INSERT INTO tb_beneficiaries (str_nis, str_name_person, str_cpf, int_rgp) VALUES (:str_nis, :str_name_person, :str_cpf, :int_rgp)");
             }
             $statement->bindValue(":str_nis", $beneficiaries->getStrNis());
             $statement->bindValue(":str_name_person", $beneficiaries->getStrNamePerson());
+            $statement->bindValue(":str_cpf", $beneficiaries->getStrCpf());
+            $statement->bindValue(":int_rgp", $beneficiaries->getIntRgp());
 
             if ($statement->execute()) {
                 if ($statement->rowCount() > 0) {
@@ -53,13 +55,15 @@ class beneficiariesDAO
     {
         global $pdo;
         try {
-            $statement = $pdo->prepare("SELECT id_beneficiaries, str_nis, str_name_person FROM tb_beneficiaries WHERE id_beneficiaries = :id");
+            $statement = $pdo->prepare("SELECT id_beneficiaries, str_nis, str_name_person, str_cpf, int_rgp FROM tb_beneficiaries WHERE id_beneficiaries = :id");
             $statement->bindValue(":id", $beneficiaries->getIdBeneficiaries());
             if ($statement->execute()) {
                 $rs = $statement->fetch(PDO::FETCH_OBJ);
                 $beneficiaries->setIdBeneficiaries($rs->id_beneficiaries);
                 $beneficiaries->setStrNis($rs->str_nis);
                 $beneficiaries->setStrNamePerson($rs->str_name_person);
+                $beneficiaries->setStrCpf($rs->str_cpf);
+                $beneficiaries->setIntRgp($rs->int_rgp);
 
                 return $beneficiaries;
             } else {
@@ -90,7 +94,7 @@ class beneficiariesDAO
         $linha_inicial = ($pagina_atual - 1) * QTDE_REGISTROS;
 
         /* Instrução de consulta para paginação com MySQL */
-        $sql = "SELECT id_beneficiaries, str_nis, str_name_person FROM tb_beneficiaries LIMIT {$linha_inicial}, " . QTDE_REGISTROS;
+        $sql = "SELECT id_beneficiaries, str_nis, str_name_person, str_cpf, int_rgp FROM tb_beneficiaries LIMIT {$linha_inicial}, " . QTDE_REGISTROS;
         $statement = $pdo->prepare($sql);
         $statement->execute();
         $dados = $statement->fetchAll(PDO::FETCH_OBJ);
@@ -133,6 +137,8 @@ class beneficiariesDAO
         <th style='text-align: center; font-weight: bolder;'>Code</th>
         <th style='text-align: center; font-weight: bolder;'>Nis</th>
         <th style='text-align: center; font-weight: bolder;'>Name</th>
+        <th style='text-align: center; font-weight: bolder;'>CPF</th>
+        <th style='text-align: center; font-weight: bolder;'>RGP</th>
         <th style='text-align: center; font-weight: bolder;' colspan='2'>Actions</th>
        </tr>
      </thead>
@@ -142,6 +148,8 @@ class beneficiariesDAO
         <td style='text-align: center'>$bene->id_beneficiaries</td>
         <td style='text-align: center'>$bene->str_nis</td>
         <td style='text-align: center'>$bene->str_name_person</td>
+        <td style='text-align: center'>$bene->str_cpf</td>
+        <td style='text-align: center'>$bene->int_rgp</td>
         <td style='text-align: center'><a href='?act=upd&id=$bene->id_beneficiaries' title='Alterar'><i class='ti-reload'></i></a></td>
         <td style='text-align: center'><a href='?act=del&id=$bene->id_beneficiaries' title='Remover'><i class='ti-close'></i></a></td>
        </tr>";
